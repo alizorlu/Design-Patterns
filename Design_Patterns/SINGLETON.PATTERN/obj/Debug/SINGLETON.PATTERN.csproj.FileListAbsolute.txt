@@ -13,3 +13,18 @@ D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kal�
 D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kalıpları Çalışması\Design_Patterns\SINGLETON.PATTERN\bin\Debug\Design_Patterns.DB.pdb
 D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kalıpları Çalışması\Design_Patterns\SINGLETON.PATTERN\bin\Debug\LiteDB.xml
 D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kalıpları Çalışması\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.csproj.CopyComplete
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\SINGLETON.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\SINGLETON.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\SINGLETON.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\Design_Patterns.DB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\LiteDB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\Design_Patterns.DB.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\bin\Debug\LiteDB.xml
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.Form1.resources
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.csproj.CopyComplete
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\SINGLETON.PATTERN\obj\Debug\SINGLETON.PATTERN.pdb

@@ -1,0 +1,15 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.Form1.resources
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\FACTORY.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\FACTORY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\FACTORY.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\Design_Patterns.DB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\LiteDB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\Design_Patterns.DB.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\bin\Debug\LiteDB.xml
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.csproj.CopyComplete
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACTORY.PATTERN\obj\Debug\FACTORY.PATTERN.pdb

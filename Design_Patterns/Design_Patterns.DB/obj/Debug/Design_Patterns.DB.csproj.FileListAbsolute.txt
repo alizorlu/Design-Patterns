@@ -7,3 +7,11 @@ D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kal�
 D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kalıpları Çalışması\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.csproj.CopyComplete
 D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kalıpları Çalışması\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.dll
 D:\ÜNİVERSİTE PROJELER\İŞ_YERİ_EĞİTİM\Günlük\22.02.2019\Tasarım Kalıpları Çalışması\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\bin\Debug\Design_Patterns.DB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\bin\Debug\Design_Patterns.DB.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\bin\Debug\LiteDB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\bin\Debug\LiteDB.xml
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.csproj.CopyComplete
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.pdb
