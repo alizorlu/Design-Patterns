@@ -1,0 +1,10 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\bin\Debug\PROPERTY.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\bin\Debug\PROPERTY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\bin\Debug\PROPERTY.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.Form1.resources
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROPERTY.PATTERN\obj\Debug\PROPERTY.PATTERN.pdb
