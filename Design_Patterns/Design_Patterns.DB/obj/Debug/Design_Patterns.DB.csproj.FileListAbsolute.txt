@@ -15,3 +15,4 @@ C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\ob
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.csproj.CopyComplete
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.dll
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\Design_Patterns.DB\obj\Debug\Design_Patterns.DB.csprojAssemblyReference.cache
