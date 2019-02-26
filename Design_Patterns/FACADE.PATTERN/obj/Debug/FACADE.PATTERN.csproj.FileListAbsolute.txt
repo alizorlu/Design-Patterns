@@ -1,0 +1,7 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\bin\Debug\FACADE.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\bin\Debug\FACADE.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\bin\Debug\FACADE.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\obj\Debug\FACADE.PATTERN.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\obj\Debug\FACADE.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\obj\Debug\FACADE.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\FACADE.PATTERN\obj\Debug\FACADE.PATTERN.pdb
