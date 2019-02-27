@@ -47,13 +47,8 @@ namespace SINGLETON.PATTERN
         public string email { get; set; }
         public sbyte city { get; set; }
         public DateTime birthdate { get; set; }
-
         private static object _lock = new object();
         private static SystemUsers newUser;
-        private SystemUsers()
-        {
-
-        }
         public static SystemUsers CreateUser()
         {
             lock (_lock)
@@ -62,7 +57,6 @@ namespace SINGLETON.PATTERN
                     newUser = new SystemUsers();
                 }
                 return newUser;
-
             }
         }
         public void Saved()

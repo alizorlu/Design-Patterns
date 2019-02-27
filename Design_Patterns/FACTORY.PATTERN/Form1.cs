@@ -53,10 +53,6 @@ namespace FACTORY.PATTERN
         public LogType LogType { get; set; }
         private static Log _log;
         private static object _lock = new object();
-        private Log()
-        {
-
-        }
         public static Log CreateLog()
         {
             lock (_lock)
