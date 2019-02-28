@@ -7,3 +7,4 @@ C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\BUILDER.PATTERN\bin\D
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\BUILDER.PATTERN\bin\Debug\BUILDER.PATTERN.pdb
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\BUILDER.PATTERN\obj\Debug\BUILDER.PATTERN.exe
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\BUILDER.PATTERN\obj\Debug\BUILDER.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\BUILDER.PATTERN\obj\Debug\BUILDER.PATTERN.csprojAssemblyReference.cache

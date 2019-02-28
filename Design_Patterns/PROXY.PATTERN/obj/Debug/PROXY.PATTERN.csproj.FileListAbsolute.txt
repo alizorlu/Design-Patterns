@@ -1,0 +1,10 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\PROXY.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\PROXY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\PROXY.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\obj\Debug\PROXY.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\obj\Debug\PROXY.PATTERN.csproj.CopyComplete
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\obj\Debug\PROXY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\obj\Debug\PROXY.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\Newtonsoft.Json.xml
