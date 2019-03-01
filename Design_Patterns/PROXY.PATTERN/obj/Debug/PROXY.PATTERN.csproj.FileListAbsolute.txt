@@ -8,3 +8,4 @@ C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\obj\Deb
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\PROXY.PATTERN\obj\Debug\PROXY.PATTERN.csprojAssemblyReference.cache
