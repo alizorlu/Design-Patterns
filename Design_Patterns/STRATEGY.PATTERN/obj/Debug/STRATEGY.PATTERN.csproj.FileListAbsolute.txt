@@ -1,0 +1,7 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\bin\Debug\STRATEGY.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\bin\Debug\STRATEGY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\bin\Debug\STRATEGY.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\obj\Debug\STRATEGY.PATTERN.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\obj\Debug\STRATEGY.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\obj\Debug\STRATEGY.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\STRATEGY.PATTERN\obj\Debug\STRATEGY.PATTERN.pdb
