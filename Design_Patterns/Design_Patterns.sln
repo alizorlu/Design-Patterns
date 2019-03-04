@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAINOFRESPONSIBILITY", "CH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEMENTO", "MEMENTO\MEMENTO.csproj", "{9CDE0D99-5703-48E2-9D04-F1F0D9128E0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEDIATOR", "MEDIATOR\MEDIATOR.csproj", "{D1636732-538E-4AA4-88E5-D0BB1481D589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{9CDE0D99-5703-48E2-9D04-F1F0D9128E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CDE0D99-5703-48E2-9D04-F1F0D9128E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CDE0D99-5703-48E2-9D04-F1F0D9128E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1636732-538E-4AA4-88E5-D0BB1481D589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1636732-538E-4AA4-88E5-D0BB1481D589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1636732-538E-4AA4-88E5-D0BB1481D589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1636732-538E-4AA4-88E5-D0BB1481D589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
