@@ -1,0 +1,7 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\bin\Debug\MEMENTO.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\bin\Debug\MEMENTO.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\bin\Debug\MEMENTO.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\obj\Debug\MEMENTO.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\obj\Debug\MEMENTO.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\obj\Debug\MEMENTO.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\MEMENTO\obj\Debug\MEMENTO.pdb
