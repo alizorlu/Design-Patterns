@@ -5,3 +5,6 @@ C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.exe
 C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\bin\Debug\Ninject.dll
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\bin\Debug\Ninject.xml
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.csproj.CopyComplete

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ninject;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,9 @@ namespace DEPENDENCY.INJECTION.PATTERN
     {
         static void Main(string[] args)
         {
-            ProductManager product = new ProductManager(new EFProductDal());
+            IKernel kernel = new StandardKernel();
+            kernel.Bind<IProductDal>().To<EFProductDal>().InSingletonScope();
+            ProductManager product = new ProductManager(kernel.Get<IProductDal>());
             product.SaveProduct();
             product = new ProductManager(new NHProductDal());
             product.SaveProduct();
