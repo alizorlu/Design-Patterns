@@ -1,0 +1,7 @@
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\bin\Debug\DEPENDENCY.INJECTION.PATTERN.exe.config
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\bin\Debug\DEPENDENCY.INJECTION.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\bin\Debug\DEPENDENCY.INJECTION.PATTERN.pdb
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.exe
+C:\Users\Asus\Source\Repos\Design-Patterns\Design_Patterns\DEPENDENCY.INJECTION.PATTERN\obj\Debug\DEPENDENCY.INJECTION.PATTERN.pdb
